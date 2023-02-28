@@ -16,5 +16,13 @@ To access the power of OpenAI API, ChatGPT Clone fetches an API key, which enabl
 
 Overall, ChatGPT Clone with Speech-to-Text Feature, OpenAI API integration, and Firebase Authentication is an advanced virtual assistant that offers an unparalleled user experience. Whether you need help with a task, want to learn something new, or just need some entertainment, ChatGPT Clone is ready to assist you anytime, anywhere.
 
-https://user-images.githubusercontent.com/109867094/221945599-261432e8-e11e-4fd3-ae30-ff20ba4a0bce.mp4
+
+
+
+
+https://user-images.githubusercontent.com/109867094/221948750-600cafb4-d74a-4d02-bafe-f035a9ca016c.mp4
+
+
+
+
 
