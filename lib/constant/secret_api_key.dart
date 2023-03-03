@@ -1,1 +1,1 @@
-  const apikey = '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';
+  const apikey = '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';

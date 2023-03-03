@@ -1,13 +1,10 @@
 
-import 'dart:convert';
 import 'package:chatgpt_mic_version/constant/colors.dart';
 import 'package:chatgpt_mic_version/model/model.dart';
 import 'package:chatgpt_mic_version/controller/generate_response.dart';
 import 'package:flutter/material.dart';
-import 'package:http/http.dart' as http;
 import 'package:google_fonts/google_fonts.dart';
 import 'package:speech_to_text/speech_to_text.dart' as stt;
-import 'package:chatgpt_mic_version/constant/secret_api_key.dart';
 import 'package:chatgpt_mic_version/views/widgets/chat_message.dart';
 
 
